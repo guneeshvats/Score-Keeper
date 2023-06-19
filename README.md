@@ -19,3 +19,7 @@ Feel free to clone, fork, or contribute to the project. Customize it to suit you
 Enjoy your games with the Simple Score Keeper, making score tracking a breeze!
 
 <strong><em>Note: This project is intended for personal and educational purposes and can be modified according to your needs.</em></strong>
+
+![image](https://github.com/guneeshvats/Score-Keeper-/assets/70188630/3a18132d-f2ce-4e2d-99e0-4cfd649fb357)
+
+
