@@ -1,5 +1,5 @@
 # Score-Keeper-
-The Simple Score Keeper is a lightweight and user-friendly web application built using HTML, CSS, and JavaScript, along with the Bulma framework. It provides a convenient solution for tracking scores in two-player games such as ping pong, where players agree on a predetermined winning score and compete to reach it first.
+The Simple Score Keeper is a lightweight and user-friendly web application built using <strong>HTML, CSS, and JavaScript, along with the Bulma framework</strong>. It provides a convenient solution for tracking scores in two-player games such as ping pong, where players agree on a predetermined winning score and compete to reach it first.
 <br><br>
 
 <h3><strong>Key Features:</strong></h3>
@@ -10,7 +10,7 @@ The Simple Score Keeper is a lightweight and user-friendly web application built
   <li><strong>Victory Notification:</strong> When a player reaches the winning score, the application promptly notifies both players with a congratulatory message, indicating the winner.</li>
 </ul>
 
-The Simple Score Keeper utilizes the Bulma framework, a lightweight CSS framework, to enhance the application's design and responsiveness. This ensures that the interface adapts seamlessly to various screen sizes, allowing users to access the score tracker from different devices.
+The Simple Score Keeper utilizes the <strong>Bulma framework</strong>, a lightweight CSS framework, to enhance the application's design and responsiveness. This ensures that the interface adapts seamlessly to various screen sizes, allowing users to access the score tracker from different devices.
 
 Whether you're engaged in casual gaming sessions, organizing tournaments, or participating in competitive activities that require scorekeeping, the Simple Score Keeper serves as a reliable and hassle-free tool.
 
